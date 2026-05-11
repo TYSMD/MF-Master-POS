@@ -1,0 +1,14 @@
+# Business Secrets
+floral_prices.csv
+*.json
+logo.png
+
+# Build Junk
+dist/
+build/
+*.spec
+__pycache__/
+
+# System files
+.DS_Store
+Thumbs.db
